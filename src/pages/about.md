@@ -16,14 +16,15 @@ This GIDE:BioImaging search portal provides a single federated search interface 
 
 <style>
   .about-logos {
-    display: flex;
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
     align-items: center;
-    gap: 5rem;
+    justify-items: center;
   }
 
   .about-logos img {
-    max-width: 150px;
-    max-height: 90px;
+    max-width: 200px;
+    max-height: 120px;
     object-fit: contain;
   }
 </style>
