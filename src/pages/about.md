@@ -11,7 +11,7 @@ This GIDE:BioImaging search portal provides a single federated search interface 
 <div class="about-logos">
   <a href="https://www.ebi.ac.uk/"><img src="/portal/repo_logos/embl_ebi_logo.png" alt="EMBL-EBI Logo" /></a>
   <a href="https://gerbi-gmb.de/"><img src="/portal/repo_logos/german_bioimaging_logo.svg" alt="German BioImaging Logo" /></a>
-  <a href="https://www.riken.jp/"><img src="/portal/repo_logos/RIKEN_logo.png" alt="RIKEN Logo" /></a>
+  <a href="https://www.riken.jp/en/"><img src="/portal/repo_logos/RIKEN_logo.png" alt="RIKEN Logo" /></a>
 </div>
 
 <style>
