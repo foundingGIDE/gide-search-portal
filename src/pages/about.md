@@ -33,7 +33,7 @@ This GIDE:BioImaging search portal provides a single federated search interface 
 
 The GIDE:BioImaging search portal and its supporting components are managed jointly by the organisations that operate its constituent indexed databases and the underlying infrastructure, namely: EMBL-EBI (the BioImage Archive), Open Microscopy Environment (OME), and RIKEN.
 
-These three core operating partners decide by consensus on the metadata model and interchange profile, on the roadmap for the portal, index and API, on the governance of the FBbi ontology, and on the management of the project's code repositories. Day to day operation of the portal is handled by EMBL-EBI. Decisions on which new resources are indexed are taken together with the Euro-BioImaging Bio-Hub, by consensus where possible and otherwise by majority vote.
+These three core operating partners decide by consensus on the metadata model and interchange profile, on the roadmap for the portal, index and API, on the governance of the FBbi ontology, and on the management of the project's code repositories. Day to day operation of the portal is handled by EMBL-EBI. Decisions on which new resources are indexed are taken together with the Euro-BioImaging, by consensus where possible and otherwise by majority vote.
 
 ## Taking part
 
