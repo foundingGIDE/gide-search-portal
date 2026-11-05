@@ -8,6 +8,27 @@ Originally funded by the European Union’s Horizon Europe program as a Coordina
 
 This GIDE:BioImaging search portal provides a single federated search interface over a number of biological imaging databases that contribute to GIDE. We currently display data from the [BioImage Archive (BIA)](https://www.ebi.ac.uk/bioimage-archive/), the [Image Data Resource (IDR)](https://idr.openmicroscopy.org/), and [SSBD:repository](https://ssbd.riken.jp/repository/) and [SSBD:database](https://ssbd.riken.jp/database/).
 
+<div class="about-logos">
+  <a href="https://www.ebi.ac.uk/"><img src="/portal/repo_logos/embl_ebi_logo.png" alt="EMBL-EBI Logo" /></a>
+  <a href="https://gerbi-gmb.de/"><img src="/portal/repo_logos/german_bioimaging_logo.svg" alt="German BioImaging Logo" /></a>
+  <a href="https://www.riken.jp/en/"><img src="/portal/repo_logos/RIKEN_logo.png" alt="RIKEN Logo" /></a>
+</div>
+
+<style>
+  .about-logos {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    align-items: center;
+    justify-items: center;
+  }
+
+  .about-logos img {
+    max-width: 200px;
+    max-height: 120px;
+    object-fit: contain;
+  }
+</style>
+
 ## Governance
 
 The GIDE:BioImaging search portal and its supporting components are managed jointly by the organisations that operate its constituent indexed databases and the underlying infrastructure, namely: EMBL-EBI (the BioImage Archive), Open Microscopy Environment (OME), and RIKEN.
